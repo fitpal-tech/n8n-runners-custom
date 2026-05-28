@@ -1,2 +1,2 @@
 FROM n8nio/runners:latest
-COPY task-runners.json /etc/task-runners.json
+COPY n8n-task-runners.json /etc/task-runners.json
